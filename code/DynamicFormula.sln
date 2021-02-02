@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathParser.Business", "MathParser.Business\MathParser.Business.csproj", "{2DCD0AD0-4C5F-4CE8-BEFB-4CC986F48F8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathParser.Draft", "MathParser.Draft\MathParser.Draft.csproj", "{4A4AF3B0-342B-4AB3-B1A6-7B8981259F4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DCD0AD0-4C5F-4CE8-BEFB-4CC986F48F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCD0AD0-4C5F-4CE8-BEFB-4CC986F48F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCD0AD0-4C5F-4CE8-BEFB-4CC986F48F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCD0AD0-4C5F-4CE8-BEFB-4CC986F48F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A4AF3B0-342B-4AB3-B1A6-7B8981259F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4AF3B0-342B-4AB3-B1A6-7B8981259F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4AF3B0-342B-4AB3-B1A6-7B8981259F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4AF3B0-342B-4AB3-B1A6-7B8981259F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FCC73BC-EFCD-4FB4-8746-9A5426ADB0A7}
+	EndGlobalSection
+EndGlobal
